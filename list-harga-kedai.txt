@@ -32,7 +32,7 @@ garuda rosta = 1000
 garuda pilus = 1000
 karupuak jangek = 1000 yg besar 5000
 jagung = 1000
-telur ayam beras = 2500
+telur ayam bras = 2500
 telur ayam kampung = 3000
 telur bebek/itik = 3500
 roti tek buti = 2500
@@ -76,4 +76,7 @@ korek api kayu = 500
 teh bendera @1 kotak = 4000
 hansaplast = 500
 proclin renteng = 1000
-
+rexona cewek = 3000
+daia renteng = 1000
+rinso renteng = 1000
+so klin jumbo cair = 1000
