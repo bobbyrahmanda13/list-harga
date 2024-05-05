@@ -80,3 +80,23 @@ rexona cewek = 3000
 daia renteng = 1000
 rinso renteng = 1000
 so klin jumbo cair = 1000
+shampoo sunsilk / clear / zinc / pantene / rejoice = 1000 => 1 baris yg biasa isi 2
+shampoo lifeboy = 1 baris @500 yg isi 2 
+kopi dibuatkan 1/2 gelas = 4000
+kopi dibuatkan 1 gelas = 8000
+teh telur = 11000
+
+rokok sampoerna hijau 1 bks = 16000
+rokok sampoerna milk 12 = 26000
+rokok surya milk 12 = 26000
+rokok samsoe 12 = 21000
+rokok chief = 17000
+
+rokok samsoe /batang = 2000
+rokok sampoerna /batang = 2500
+rokok surya /batang = 2500
+
+
+rokok samsoe 1/2 bks = 11000
+rokok sampoerna 1/2 bks kecil = 13000
+rokok surya 1/2 bks kecil = 13000
