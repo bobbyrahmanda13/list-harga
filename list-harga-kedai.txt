@@ -89,16 +89,19 @@ kopi dibuatkan 1 gelas = 8000
 teh telur = 11000
 
 rokok sampoerna hijau 1 bks = 16000
-rokok sampoerna milk 12 = 26000
-rokok surya milk 12 = 26000
-rokok samsoe 12 = 21000
 rokok chief = 17000
 
-rokok samsoe /batang = 2000
+rokok sampoerna milk 12 = 26000
+rokok sampoerna 1/2 bks kecil = 13000
+rokok sampoerna 1/2 bks besar = 18000
 rokok sampoerna /batang = 2500
+
+rokok surya milk 12 = 26000
+rokok surya 1/2 bks kecil = 13000
+rokok surya 1/2 bks besar = 18000
 rokok surya /batang = 2500
 
-
+rokok samsoe 12 = 21000
 rokok samsoe 1/2 bks = 11000
-rokok sampoerna 1/2 bks kecil = 13000
-rokok surya 1/2 bks kecil = 13000
+rokok samsoe /batang = 2000
+
