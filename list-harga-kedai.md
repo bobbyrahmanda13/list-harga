@@ -19,7 +19,27 @@
 ### Bagian 1
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Charm Renteng | 2000 | |
+|Garuda Rosta | 1000 ||
+|Mie Gelas Renteng | 1500 ||
+|Garuda Pilus | 1000 ||
+|Karupuak Jangek | 1000 |Besar = 5000 / Kecil = 1000|
+|Jagung | 1000 ||
+
+### Bagian 2
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Top Coffee Series Renteng | 1500||
+|Kapal Api One | 2000 ||
+|Coffeemix Indocafe | 2000 ||
+|Cappuchino Indocafe | 2500 ||
+|White Coffee Luwak | 2000 ||
+|Nutrisari | 1500 |Semua Jenis|
+
+### Bagian 3
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Sari Murni Renteng | 1500 ||
+|Susu Putih / Coklat | 2000 ||
 |Royco Sapi / Ayam | 500 ||
 |Abc terasi renteng | 1500 ||
 |Abc Extra Pedas Renteng | 1000 ||
@@ -28,44 +48,32 @@
 |Ladaku | 1000 ||
 |Bawang Putih Bubuk | 1000 ||
 |Bango Kecap Renteng | 1500 ||
-|Sari Murni Renteng | 1500 ||
 
-### Bagian 2
+### Bagian 4
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
 |Sunlight 90 ml | 2500 ||
 |Hibka | 2500 ||
 |Laurier Big Pack | 6000||
 |Pisau Cater | 2000||
-
-
-### Bagian 3
-|Nama | Harga | Keterangan |
-|------|-------|-----------|
-|Nutrisari | 1500 |Semua Jenis|
-|Finto / Teh Sisri / Jasjus | 1000 ||
-|Pop Ice | 3000|Tanpa di Buatkan|
-|Pop Ice | 4000|Dibuatkan|
-
-
-### Bagian 4
-|Nama | Harga | Keterangan |
-|------|-------|-----------|
-|Top Coffee Series Renteng | 1500||
-|Susu Putih / Coklat | 2000 ||
-|Coffeemix Indocafe | 2000 ||
-|Cappuchino Indocafe | 2500 ||
-|White Coffee Luwak | 2000 ||
+|Charm Renteng | 2000 | |
 
 
 ### Bagian 5
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Garuda Rosta | 1000 ||
-|Mie Gelas Renteng | 1500 ||
-garuda pilus = 1000
-karupuak jangek = 1000 yg besar 5000
-jagung = 1000
+|Finto / Teh Sisri / Jasjus | 1000 ||
+|Pop Ice | 3000|Tanpa di Buatkan|
+|Pop Ice | 4000|Dibuatkan|
+
+
+### Bagian 6
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Charm Renteng Kecil | 2.000|
+
+
+
 telur ayam bras = 2500
 telur ayam kampung = 3000
 telur bebek/itik = 3500
