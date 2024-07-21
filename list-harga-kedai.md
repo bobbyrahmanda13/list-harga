@@ -108,14 +108,14 @@
 |Pepsodent | 5.500 |
 |Sabun Lux / Lifeboy |5.000 | sabun zen @4.000|
 |Asam Cuka | 3.000||
-sari wangi 1 kotak = 7000
-sabun boom bubuk = 6000
-garam besar kasar = 8000
-garam kecil kasar = 3000
-garam menengah kasar = 5000
-garam halus kecil = 3000
-gula pasir 1/4 kg = 5500
-gula pasir 1/2 kg = 12000
+|Sari Wangi @kotak | 7.000 ||
+|Sabun Boom Bubuk | 5.500 ||
+|Garam Besar Kasar | 8.000||
+|Garam Kecil Kasar | 3.000||
+|Garam Menengah Kasar | 5.000 ||
+|Garam Halus Kecil | 3.000 ||
+|Gula Pasir 1/4 kg | 5.500 ||
+gula pasir 1/2 kg | 12000 ||
 sabun ekonomi = 2500
 indomie ayam geprek = 3500
 indomie kari ayam = 3500
