@@ -46,7 +46,7 @@
 ### Bagian 3
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Sari Murni Renteng | 1.500 ||
+|Sari Murni Renteng | 2.000 ||
 |Susu Putih / Coklat | 2.000 ||
 |Royco Sapi / Ayam | 500 ||
 |Abc terasi renteng | 1.500 ||
@@ -121,32 +121,37 @@
 |Garam Kecil Kasar | 3.000||
 |Garam Menengah Kasar | 5.000 ||
 |Garam Halus Kecil | 3.000 ||
-|Gula Pasir 1/4 kg | 5.500 ||
-gula pasir 1/2 kg | 12000 ||
-sabun ekonomi = 2500
-indomie ayam geprek = 3500
-indomie kari ayam = 3500
-indomie goreng = 3500
-mie sukses kuah = 4500
-mie sukses goreng = 4500
-amplop @1 = 500
-kopi bubuk = 2000
-blau = 500
-adem sari = 2500
-mantel = 13000
-korek api kayu = 500
-teh bendera @1 kotak = 4000
-hansaplast = 500
-proclin renteng = 1000
-rexona cewek = 3000
-daia renteng = 1000
-rinso renteng = 1000
-so klin jumbo cair = 1000
-shampoo sunsilk / clear / zinc / pantene / rejoice = 1000 => 1 baris yg biasa isi 2
-shampoo lifeboy = 1 baris @500 yg isi 2 
+|Gula Pasir 1/4 kg | 5.000 ||
+|Gula pasir 1/2 kg | 10.000 ||
+|Sabun Ekonomi | 2.500 ||
+|Indomie Ayam Geprek | 3.500 ||
+|Indomie Kari Ayam | 3.500||
+|Indomie Goreng | 3.500 ||
+|Mie Sukses Kuah | 4.500 ||
+|Mie Sukses Goreng | 4.500 ||
+|Amplop @1 | 500||
+|Kopi Arman Bubuk saset | 2.000||
+|Kopi Arman Bubuk 1/2 ons | 5.000||
+|blau | 500 ||
+|Adem Sari | 2500 ||
+|Mantel | 13.000 ||
+|Korek Api Kayu | 500 ||
+|Teh Bendera @1 kotak | 4.000 ||
+|Hansaplast | 500 ||
+|Proclin Renteng | 1.000 ||
+|Rexona Cewek | 3.000 ||
+|Daia Renteng | 1.000 ||
+|Rinso Bubuk Renteng | 1.000 ||
+|So Klin Jumbo Cair | 1000 ||
+|Shampoo Sunsilk / Clear / Zinc / Pantene / Rejoice | 1000 |1 baris yg biasa isi 2|
+|Shampoo Lifeboy @baris | 500 yg isi 2 | 
+
+## Minuman yang Dibuatkan
 kopi dibuatkan 1/2 gelas = 4000
 kopi dibuatkan 1 gelas = 8000
 teh telur = 11000
+
+k
 
 ## Rokok
 rokok sampoerna hijau 1 bks = 16000
