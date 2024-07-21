@@ -17,18 +17,18 @@
 ## Renteng
 
 ### Bagian 1
-|Nama | Harga |
-|------|-------|
-|Charm Renteng | 2000 |
-|Royco Sapi / Ayam | 500 |
-|Abc terasi renteng | 1500 |
-|Abc Extra Pedas Renteng | 1000 |
-|Saori Saos Tiram | 3000|
-|Desaku Kunyit | 1000 |
-|Ladaku | 1000 |
-|Bawang Putih Bubuk | 1000 |
-|Bango Kecap Renteng | 1500 |
-|Sunlight 90 ml | 2500 |
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Charm Renteng | 2000 | |
+|Royco Sapi / Ayam | 500 ||
+|Abc terasi renteng | 1500 ||
+|Abc Extra Pedas Renteng | 1000 ||
+|Saori Saos Tiram | 3000||
+|Desaku Kunyit | 1000 ||
+|Ladaku | 1000 ||
+|Bawang Putih Bubuk | 1000 ||
+|Bango Kecap Renteng | 1500 ||
+|Sunlight 90 ml | 2500 ||
 hibka = 2500
 laurier big pack = 6000
 pisau cater = 2000
