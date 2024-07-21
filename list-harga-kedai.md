@@ -4,10 +4,17 @@
 |Nama | Harga |
 |------|-------|
 |Sprite Kecil | 4.000|
+|Fanta Kecil | 4.000|
 |Golda | 4.000|
 |Aqua Besar | 6.000|
 |Aqua Kecil | 4.000|
-|Yakult | 2500 ||
+|Yakult | 2.500 ||
+|Sajuak @500| 5.000 ||
+|Teh Gelas, xTeh, Mountea dll| 1.000 ||
+|Teh Pucuk | 4.000||
+|Pulpy Orange | 6.000||
+|Pocari Sweet | 7.000||
+
 
 ### Mie
 |Nama | Harga |
