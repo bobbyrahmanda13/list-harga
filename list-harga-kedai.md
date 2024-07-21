@@ -3,100 +3,111 @@
 ### Minuman Kulkas
 |Nama | Harga |
 |------|-------|
-|Sprite Kecil | 4000|
-|Golda | 4000|
-|Aqua Besar | 6000|
-|Aqua Kecil | 4000|
+|Sprite Kecil | 4.000|
+|Golda | 4.000|
+|Aqua Besar | 6.000|
+|Aqua Kecil | 4.000|
+|Yakult | 2500 ||
 
 ### Mie
 |Nama | Harga |
 |------|-------|
-|Pop Mie Kari Ayam | 6000 |
-|Pop Mie Pedas Goreng | 6500 |
+|Pop Mie Kari Ayam | 6.000 |
+|Pop Mie Pedas Goreng | 6.500 |
 
 ## Renteng
 
 ### Bagian 1
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Garuda Rosta | 1000 ||
-|Mie Gelas Renteng | 1500 ||
-|Garuda Pilus | 1000 ||
-|Karupuak Jangek | 1000 |Besar = 5000 / Kecil = 1000|
-|Jagung | 1000 ||
+|Garuda Rosta | 1.000 ||
+|Mie Gelas Renteng | 1.500 ||
+|Garuda Pilus | 1.000 ||
+|Karupuak Jangek | 1.000 |Besar = 5.000 / Kecil = 1.000|
+|Jagung | 1.000 ||
 
 ### Bagian 2
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Top Coffee Series Renteng | 1500||
-|Kapal Api One | 2000 ||
-|Coffeemix Indocafe | 2000 ||
-|Cappuchino Indocafe | 2500 ||
-|White Coffee Luwak | 2000 ||
-|Nutrisari | 1500 |Semua Jenis|
+|Top Coffee Series Renteng | 1.500||
+|Kapal Api One | 2.000 ||
+|Coffeemix Indocafe | 2.000 ||
+|Cappuchino Indocafe | 2.500 ||
+|White Coffee Luwak | 2.000 ||
+|Nutrisari | 1.500 |Semua Jenis|
 
 ### Bagian 3
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Sari Murni Renteng | 1500 ||
-|Susu Putih / Coklat | 2000 ||
+|Sari Murni Renteng | 1.500 ||
+|Susu Putih / Coklat | 2.000 ||
 |Royco Sapi / Ayam | 500 ||
-|Abc terasi renteng | 1500 ||
-|Abc Extra Pedas Renteng | 1000 ||
-|Saori Saos Tiram | 3000||
-|Desaku Kunyit | 1000 ||
-|Ladaku | 1000 ||
-|Bawang Putih Bubuk | 1000 ||
-|Bango Kecap Renteng | 1500 ||
+|Abc terasi renteng | 1.500 ||
+|Abc Extra Pedas Renteng | 1.000 ||
+|Saori Saos Tiram | 3.000||
+|Desaku Kunyit | 1.000 ||
+|Ladaku | 1.000 ||
+|Bawang Putih Bubuk | 1.000 ||
+|Bango Kecap Renteng | 1.500 ||
 
 ### Bagian 4
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Sunlight 90 ml | 2500 ||
-|Hibka | 2500 ||
-|Laurier Big Pack | 6000||
-|Pisau Cater | 2000||
-|Charm Renteng | 2000 | |
+|Sunlight 90 ml | 2.500 ||
+|Hibka | 2.500 ||
+|Laurier Big Pack | 6.000||
+|Pisau Cater | 2.000||
+|Charm Renteng | 2.000 | |
 
 
 ### Bagian 5
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Finto / Teh Sisri / Jasjus | 1000 ||
-|Pop Ice | 3000|Tanpa di Buatkan|
-|Pop Ice | 4000|Dibuatkan|
+|Finto / Teh Sisri / Jasjus | 1.000 ||
+|Pop Ice | 3.000|Tanpa di Buatkan|
+|Pop Ice | 4.000|Dibuatkan|
 
 
 ### Bagian 6
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Charm Renteng Kecil | 2.000|
+|Charm Renteng Kecil Pink | 1.000|
+|Charm Extra Maxi |2.000 ||
+|Charm Safe Night 350mm |3.500 ||
+|Daia Floral | 1.000 ||
 
+## Meja
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Telur Ayam Beras | 2.500 ||
+|Telur Ayam Kampung | 3.000 ||
+|Telur Bebek | 3.500 ||
+|Roti Tek Buti | 2.500 ||
+|Roti Biasa | 2.000 ||
 
+## Rak
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Sosis | 1.000||
+|Permen @3 | 1.000||
+|Kue Cinta | 1.000 ||
+|Garuda Pilus Pedas Merah | 1.000 / kecil = 500 ||
+|Mie Kremes | 1.000 ||
+|Yupi | 500 | @besar = 1.000|
+|Kalpa | 2.000 ||
+|Superstar | 1.000 ||
+|Slay olay | 2.000 ||
+|Oreo | 2.000 ||
+|Beng Beng | 2.000||
+|Choki | 2.000 ||
+|Nextar | 2.000 ||
 
-telur ayam bras = 2500
-telur ayam kampung = 3000
-telur bebek/itik = 3500
-roti tek buti = 2500
-roti biasa = 2000
-sosis = 1000
-permen @3 = 1000
-kue cinta = 1000
-garuda pilus pedas merah = 1000 / kecil = 500
-mie kremes = 1000
-yupi = 500 @besar = 1000
-crisp daya = 1000
-kalpa = 2000
-superstar = 1000
-slay olay = 2000
-oreo = 2000
-beng beng = 2000
-choki = 2000
-nextar = 2000
-yakult = 2500
-pepsodent = 5000
-sabun lux / lifeboy / shinzui = 5000
-asam cuka = 3000
+### Rak Dalam
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Pepsodent | 5.500 |
+|Sabun Lux / Lifeboy |5.000 | sabun zen @4.000|
+|Asam Cuka | 3.000||
 sari wangi 1 kotak = 7000
 sabun boom bubuk = 6000
 garam besar kasar = 8000
