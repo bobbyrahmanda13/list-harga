@@ -86,7 +86,7 @@
 ## Meja
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
-|Telur Ayam Beras | 2.500 ||
+|Telur Ayam Beras | 2.000 |@10 = 21.000 |
 |Telur Ayam Kampung | 3.000 ||
 |Telur Bebek | 3.500 ||
 |Roti Tek Buti | 2.500 ||
