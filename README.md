@@ -1,10 +1,11 @@
 # List Harga
 
 ## Minuman Kulkas
-sprite kecil = 4000
-golda = 4000
-aqua besar = 6000
-aqua kecil = 4000
+|Nama | Harga |
+|sprite kecil | 4000|
+|golda | 4000|
+|aqua besar | 6000|
+|aqua kecil | 4000|
 
 pop mie kari ayam = 6000
 pop mie pedas goreng = 6500
