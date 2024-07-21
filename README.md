@@ -2,6 +2,7 @@
 
 ## Minuman Kulkas
 |Nama | Harga |
+|------|-------|
 |sprite kecil | 4000|
 |golda | 4000|
 |aqua besar | 6000|
