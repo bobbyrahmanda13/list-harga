@@ -3,23 +3,32 @@
 ## Minuman Kulkas
 |Nama | Harga |
 |------|-------|
-|sprite kecil | 4000|
-|golda | 4000|
-|aqua besar | 6000|
-|aqua kecil | 4000|
+|Sprite Kecil | 4000|
+|Golda | 4000|
+|Aqua Besar | 6000|
+|Aqua Kecil | 4000|
 
-pop mie kari ayam = 6000
-pop mie pedas goreng = 6500
-charm renteng = 2000
-royco sapi / ayam = 500
-abc terasi renteng = 1500
-abc extra pedas renteng = 1000
-saori saos tiram = 3000
-desaku kunyit = 1000
-ladaku = 1000
-bawang putih bubuk = 1000
-bango kecap renteng = 1500
-sunlight 90 ml = 2500
+## Mie
+|Nama | Harga |
+|------|-------|
+|Pop Mie Kari Ayam | 6000 |
+|Pop Mie Pedas Goreng | 6500 |
+
+# Renteng
+
+## Bagian 1
+|Nama | Harga |
+|------|-------|
+|Charm Renteng | 2000 |
+|Royco Sapi / Ayam | 500 |
+|Abc terasi renteng | 1500 |
+|Abc Extra Pedas Renteng | 1000 |
+|Saori Saos Tiram | 3000|
+|Desaku Kunyit | 1000 |
+|Ladaku | 1000 |
+|Bawang Putih Bubuk | 1000 |
+|Bango Kecap Renteng | 1500 |
+|Sunlight 90 ml | 2500 |
 hibka = 2500
 laurier big pack = 6000
 pisau cater = 2000
