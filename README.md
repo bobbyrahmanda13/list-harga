@@ -29,13 +29,13 @@
 |Bawang Putih Bubuk | 1000 ||
 |Bango Kecap Renteng | 1500 ||
 |Sunlight 90 ml | 2500 ||
-hibka = 2500
-laurier big pack = 6000
-pisau cater = 2000
-nutrisari = 1500
-finto / teh sisri / jasjus = 1000
-pop ice tanpa dibuat = 3000
-pop ice dibuat = 4000
+|Hibka | 2500 ||
+|Laurier Big Pack | 6000||
+|Pisau Cater | 2000||
+|Nutrisari | 1500 |Semua Jenis|
+|finto / teh sisri / jasjus | 1000 ||
+|pop ice | 3000|Tanpa di Buatkan|
+|pop ice | 4000|Dibuatkan|
 sari murni renteng = 1500
 susu putih / coklat = 2000
 top coffee series renteng = 1500
