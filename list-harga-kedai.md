@@ -147,27 +147,29 @@
 |Shampoo Lifeboy @baris | 500 yg isi 2 | 
 
 ## Minuman yang Dibuatkan
-kopi dibuatkan 1/2 gelas = 4000
-kopi dibuatkan 1 gelas = 8000
-teh telur = 11000
-
-k
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Kopi 1/2 gelas | 4.000 ||
+|Kopi 1 gelas | 8.000 ||
+|Teh Telur | 12.000 |per gelas|
+|Teh Es | 5.000 |per gelas|
+|Teh Hangat | 4.000 | per gelas|
+|Cappuchino Hangat | 6.000 | per gelas pake susu|
 
 ## Rokok
-rokok sampoerna hijau 1 bks = 16000
-rokok chief = 17000
-
-rokok sampoerna milk 12 = 26000
-rokok sampoerna 1/2 bks kecil = 13000
-rokok sampoerna 1/2 bks besar = 18000
-rokok sampoerna /batang = 2500
-
-rokok surya milk 12 = 26000
-rokok surya 1/2 bks kecil = 13000
-rokok surya 1/2 bks besar = 18000
-rokok surya /batang = 2500
-
-rokok samsoe 12 = 21000
-rokok samsoe 1/2 bks = 11000
-rokok samsoe /batang = 2000
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Rokok Sampoerna Hijau 1 bks | 17.000 ||
+|Rokok Chief | 17.000 ||
+|Rokok Sampoerna Milk 12 | 26.000 ||
+|Rokok Sampoerna 1/2 bks Kecil |13.500 ||
+|Rokok Sampoerna 1/2 bks besar | 18.000 ||
+|Rokok Sampoerna /batang | 2.500 ||
+|Rokok Surya Milk 12 | 26.000 ||
+|Rokok Surya 1/2 bks Kecil | 13.500 ||
+|Rokok Surya 1/2 bks Besar | 18.000 ||
+|Rokok Surya /batang | 2.500 ||
+|Rokok Samsoe 12 | 21.000 ||
+|Rokok Samsoe 1/2 bks | 11.000 ||
+|Rokok Samsoe /batang | 2.000 ||
 
