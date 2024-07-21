@@ -1,31 +1,60 @@
-sprite kecil = 4000
-golda = 4000
-aqua besar = 6000
-aqua kecil = 4000
-pop mie kari ayam = 6000
-pop mie pedas goreng = 6500
-charm renteng = 2000
-royco sapi / ayam = 500
-abc terasi renteng = 1500
-abc extra pedas renteng = 1000
-saori saos tiram = 3000
-desaku kunyit = 1000
-ladaku = 1000
-bawang putih bubuk = 1000
-bango kecap renteng = 1500
-sunlight 90 ml = 2500
-hibka = 2500
-laurier big pack = 6000
-pisau cater = 2000
-nutrisari = 1500
-finto / teh sisri / jasjus = 1000
-pop ice tanpa dibuat = 3000
-pop ice dibuat = 4000
-sari murni renteng = 1500
-susu putih / coklat = 2000
-top coffee series renteng = 1500
-coffeemix indocafe = 2000
-cappuchino indocafe = 2500
+# List Harga
+
+### Minuman Kulkas
+|Nama | Harga |
+|------|-------|
+|Sprite Kecil | 4000|
+|Golda | 4000|
+|Aqua Besar | 6000|
+|Aqua Kecil | 4000|
+
+### Mie
+|Nama | Harga |
+|------|-------|
+|Pop Mie Kari Ayam | 6000 |
+|Pop Mie Pedas Goreng | 6500 |
+
+## Renteng
+
+### Bagian 1
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Charm Renteng | 2000 | |
+|Royco Sapi / Ayam | 500 ||
+|Abc terasi renteng | 1500 ||
+|Abc Extra Pedas Renteng | 1000 ||
+|Saori Saos Tiram | 3000||
+|Desaku Kunyit | 1000 ||
+|Ladaku | 1000 ||
+|Bawang Putih Bubuk | 1000 ||
+|Bango Kecap Renteng | 1500 ||
+|Sari Murni Renteng | 1500 ||
+|Susu Putih / Coklat | 2000 ||
+
+### Bagian 2
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Sunlight 90 ml | 2500 ||
+|Hibka | 2500 ||
+|Laurier Big Pack | 6000||
+|Pisau Cater | 2000||
+
+
+### Bagian 3
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Nutrisari | 1500 |Semua Jenis|
+|Finto / Teh Sisri / Jasjus | 1000 ||
+|Pop Ice | 3000|Tanpa di Buatkan|
+|Pop Ice | 4000|Dibuatkan|
+
+
+### Bagian 4
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Top Coffee Series Renteng | 1500||
+|Coffeemix Indocafe | 2000 ||
+|Cappuchino Indocafe | 2500 ||
 white coffee luwak = 2000
 mie gelas renteng = 1500
 garuda rosta = 1000
@@ -88,6 +117,7 @@ kopi dibuatkan 1/2 gelas = 4000
 kopi dibuatkan 1 gelas = 8000
 teh telur = 11000
 
+## Rokok
 rokok sampoerna hijau 1 bks = 16000
 rokok chief = 17000
 
