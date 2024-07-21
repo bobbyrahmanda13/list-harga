@@ -29,7 +29,6 @@
 |Bawang Putih Bubuk | 1000 ||
 |Bango Kecap Renteng | 1500 ||
 |Sari Murni Renteng | 1500 ||
-|Susu Putih / Coklat | 2000 ||
 
 ### Bagian 2
 |Nama | Harga | Keterangan |
@@ -53,11 +52,17 @@
 |Nama | Harga | Keterangan |
 |------|-------|-----------|
 |Top Coffee Series Renteng | 1500||
+|Susu Putih / Coklat | 2000 ||
 |Coffeemix Indocafe | 2000 ||
 |Cappuchino Indocafe | 2500 ||
-white coffee luwak = 2000
-mie gelas renteng = 1500
-garuda rosta = 1000
+|White Coffee Luwak | 2000 ||
+
+
+### Bagian 5
+|Nama | Harga | Keterangan |
+|------|-------|-----------|
+|Garuda Rosta | 1000 ||
+|Mie Gelas Renteng | 1500 ||
 garuda pilus = 1000
 karupuak jangek = 1000 yg besar 5000
 jagung = 1000
