@@ -1,6 +1,6 @@
 # List Harga
 
-## Minuman Kulkas
+### Minuman Kulkas
 |Nama | Harga |
 |------|-------|
 |Sprite Kecil | 4000|
@@ -8,15 +8,15 @@
 |Aqua Besar | 6000|
 |Aqua Kecil | 4000|
 
-## Mie
+### Mie
 |Nama | Harga |
 |------|-------|
 |Pop Mie Kari Ayam | 6000 |
 |Pop Mie Pedas Goreng | 6500 |
 
-# Renteng
+## Renteng
 
-## Bagian 1
+### Bagian 1
 |Nama | Harga |
 |------|-------|
 |Charm Renteng | 2000 |
